@@ -1,7 +1,7 @@
 # PulseDesk — Smart Clinic Queue Manager
-**Tagline:** Organized Care. Happier Visits.
+**Tagline:** Organized Care. Happier Visits. 
 
-PulseDesk is a local Flask + SQLite academic project that extends the supplied Hospital Patient Queue System. The original project had `index.html`, `style.css`, `app.js`, and `ds.js`; it implemented a browser-only JavaScript min-heap and Map-based patient lookup. This version migrates the queue core into Python, uses SQLite for persistent patient/visit records, and retains HTML/CSS/minimal JS for the UI.
+PulseDesk is a clinic queue and patient management system built with Python, Flask, and SQLite. It helps organize patient visits, manage waiting queues, handle appointments, and access patient records through a simple web interface. The project demonstrates the practical application of Data Structures and Algorithms in clinic workflow management.
 
 ## Requirements
 - Windows 10/11
